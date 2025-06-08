@@ -1,3 +1,6 @@
-a = 10
-b = 20
-input("enter your city name")
+print("welcome to band name generator")
+city = input("enter your city name ")
+petName = input("enter your pet name ")
+print("The band name is", city + " " + petName)
+
+
